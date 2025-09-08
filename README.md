@@ -1,15 +1,15 @@
 # Aplikasi ToDO List Flutter SImple
 
 ## Di App ini ada apa aja :
--Navigasi 2 Halaman
--Penggunaan model data simpel
--Penggunaan Stateful Wdiget dan Set State
+- Navigasi 2 Halaman
+- Penggunaan model data simpel
+- Penggunaan Stateful Wdiget dan Set State
 
 ## Fitur App :
--Menambah Todo List
--View Todo List
--Menghapus Todo List
--Dan desain kustom
+- Menambah Todo List
+- View Todo List
+- Menghapus Todo List
+- Dan desain kustom
 
 ## Pendekatan State
 Pendekatan State Yang didpilih  adalah Stateful Widdget dan SetState karena emang yang paling mudah dan dimengerti adalah setstate, dan untuk app ini bekerja dengan sebaik baiknya.
